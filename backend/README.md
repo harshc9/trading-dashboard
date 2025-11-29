@@ -21,7 +21,7 @@ The backend service for the House of EdTech Real-Time Trading Dashboard. Built w
 
 2.  Install dependencies:
     ```bash
-    go mod download
+    go mod tidy
     ```
 
 ## Configuration
